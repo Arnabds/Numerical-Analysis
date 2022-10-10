@@ -1,0 +1,238 @@
+{
+  "build": "py310h2ec42d9_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "python_abi 3.10.* *_cp310",
+    "zipp >=0.5"
+  ],
+  "extracted_package_dir": "/Users/arnabdeysarkar/opt/anaconda3/pkgs/importlib-metadata-4.11.4-py310h2ec42d9_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/LICENSE",
+    "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/METADATA",
+    "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/RECORD",
+    "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/WHEEL",
+    "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/importlib_metadata/__init__.py",
+    "lib/python3.10/site-packages/importlib_metadata/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/importlib_metadata/__pycache__/_adapters.cpython-310.pyc",
+    "lib/python3.10/site-packages/importlib_metadata/__pycache__/_collections.cpython-310.pyc",
+    "lib/python3.10/site-packages/importlib_metadata/__pycache__/_compat.cpython-310.pyc",
+    "lib/python3.10/site-packages/importlib_metadata/__pycache__/_functools.cpython-310.pyc",
+    "lib/python3.10/site-packages/importlib_metadata/__pycache__/_itertools.cpython-310.pyc",
+    "lib/python3.10/site-packages/importlib_metadata/__pycache__/_meta.cpython-310.pyc",
+    "lib/python3.10/site-packages/importlib_metadata/__pycache__/_text.cpython-310.pyc",
+    "lib/python3.10/site-packages/importlib_metadata/_adapters.py",
+    "lib/python3.10/site-packages/importlib_metadata/_collections.py",
+    "lib/python3.10/site-packages/importlib_metadata/_compat.py",
+    "lib/python3.10/site-packages/importlib_metadata/_functools.py",
+    "lib/python3.10/site-packages/importlib_metadata/_itertools.py",
+    "lib/python3.10/site-packages/importlib_metadata/_meta.py",
+    "lib/python3.10/site-packages/importlib_metadata/_text.py",
+    "lib/python3.10/site-packages/importlib_metadata/py.typed"
+  ],
+  "fn": "importlib-metadata-4.11.4-py310h2ec42d9_0.tar.bz2",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "/Users/arnabdeysarkar/opt/anaconda3/pkgs/importlib-metadata-4.11.4-py310h2ec42d9_0",
+    "type": 1
+  },
+  "md5": "f67654246da9adc1ea5f37c160758619",
+  "name": "importlib-metadata",
+  "package_tarball_full_path": "/Users/arnabdeysarkar/opt/anaconda3/pkgs/importlib-metadata-4.11.4-py310h2ec42d9_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "c0d7ba740721989d55bd507c0fda1373e8071da742b9a48101ebf7eac60433a5",
+        "sha256_in_prefix": "c0d7ba740721989d55bd507c0fda1373e8071da742b9a48101ebf7eac60433a5",
+        "size_in_bytes": 571
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "b54439e56f481b19e793caaf951dfd216a3c642501b1cf3a307e65970dc90288",
+        "sha256_in_prefix": "b54439e56f481b19e793caaf951dfd216a3c642501b1cf3a307e65970dc90288",
+        "size_in_bytes": 3960
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "78732f542bb9d9e618b67763325f22bed5237dddf1f1549b93fc1905171e378b",
+        "sha256_in_prefix": "78732f542bb9d9e618b67763325f22bed5237dddf1f1549b93fc1905171e378b",
+        "size_in_bytes": 2020
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "54464f63474d9d5847e77286caa93527b3773f95dd6be25dfa38437660b60d62",
+        "sha256_in_prefix": "54464f63474d9d5847e77286caa93527b3773f95dd6be25dfa38437660b60d62",
+        "size_in_bytes": 106
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata-4.11.4.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "08eddf0fdcb29403625e4acca38a872d5fe6a972f6b02e4914a82dd725804fe0",
+        "sha256_in_prefix": "08eddf0fdcb29403625e4acca38a872d5fe6a972f6b02e4914a82dd725804fe0",
+        "size_in_bytes": 19
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "133856a5b0a07e9f0e3b060444102211257bef3565d64952f0bdb5b711842089",
+        "sha256_in_prefix": "133856a5b0a07e9f0e3b060444102211257bef3565d64952f0bdb5b711842089",
+        "size_in_bytes": 31365
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "13d956369371d220d36db4bd273db557c78625f0d623f8461a4af09eef6403bb",
+        "sha256_in_prefix": "13d956369371d220d36db4bd273db557c78625f0d623f8461a4af09eef6403bb",
+        "size_in_bytes": 38446
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/__pycache__/_adapters.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "66aee622b806fabc5fdbf7b551494878953838a9f3c0771bc7e8849e2b2d1a42",
+        "sha256_in_prefix": "66aee622b806fabc5fdbf7b551494878953838a9f3c0771bc7e8849e2b2d1a42",
+        "size_in_bytes": 2353
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/__pycache__/_collections.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "280043ed6d227fbe98f432a9c05fb6785ae9e7ecf4afd578da9e90681bbf19c4",
+        "sha256_in_prefix": "280043ed6d227fbe98f432a9c05fb6785ae9e7ecf4afd578da9e90681bbf19c4",
+        "size_in_bytes": 1528
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/__pycache__/_compat.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "2c943db0e2b43b73ae30508aba431220f292b750ef2795ec0723caefe858de3a",
+        "sha256_in_prefix": "2c943db0e2b43b73ae30508aba431220f292b750ef2795ec0723caefe858de3a",
+        "size_in_bytes": 2012
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/__pycache__/_functools.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "99b23abd863f5240c42c8bc1997455a49daf949da657d1a4e46876437be7efb8",
+        "sha256_in_prefix": "99b23abd863f5240c42c8bc1997455a49daf949da657d1a4e46876437be7efb8",
+        "size_in_bytes": 3118
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/__pycache__/_itertools.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "42639672293e7cea7d59064ac8d5e32946b4b435a3acb33f05e95f06034da6d2",
+        "sha256_in_prefix": "42639672293e7cea7d59064ac8d5e32946b4b435a3acb33f05e95f06034da6d2",
+        "size_in_bytes": 1999
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/__pycache__/_meta.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "0f13dff1db13d7f9c7f5bea1a6f5ff59a49514cd1434b310c8dfc0cda16ba5a3",
+        "sha256_in_prefix": "0f13dff1db13d7f9c7f5bea1a6f5ff59a49514cd1434b310c8dfc0cda16ba5a3",
+        "size_in_bytes": 2307
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/__pycache__/_text.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "a8676fec0be2ff3feacb28cfc68d2c137ccaa1ca80bf0487bc4aff5e0f8513cf",
+        "sha256_in_prefix": "a8676fec0be2ff3feacb28cfc68d2c137ccaa1ca80bf0487bc4aff5e0f8513cf",
+        "size_in_bytes": 3051
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/_adapters.py",
+        "path_type": "hardlink",
+        "sha256": "07a7c28b9fbc98b543154663de4ac8e67028fa62a9d5d1ffa886afc88c85ac9b",
+        "sha256_in_prefix": "07a7c28b9fbc98b543154663de4ac8e67028fa62a9d5d1ffa886afc88c85ac9b",
+        "size_in_bytes": 1862
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/_collections.py",
+        "path_type": "hardlink",
+        "sha256": "089d0e4c21c88d6034648552e2fa0e440b27d91e11d9c40112d3ec6442690126",
+        "sha256_in_prefix": "089d0e4c21c88d6034648552e2fa0e440b27d91e11d9c40112d3ec6442690126",
+        "size_in_bytes": 743
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "114d9708504f141cae23439fe97900b8161bcea4b28f0c30c2a9ac2b871c9dad",
+        "sha256_in_prefix": "114d9708504f141cae23439fe97900b8161bcea4b28f0c30c2a9ac2b871c9dad",
+        "size_in_bytes": 1826
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/_functools.py",
+        "path_type": "hardlink",
+        "sha256": "3ec636fb8aeb297e1155e442d681a9d65075a660bd78a37cf3f7fe6c3f6e3a80",
+        "sha256_in_prefix": "3ec636fb8aeb297e1155e442d681a9d65075a660bd78a37cf3f7fe6c3f6e3a80",
+        "size_in_bytes": 2895
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/_itertools.py",
+        "path_type": "hardlink",
+        "sha256": "72faffdaff0145bc5c225e71e6575fa9d1e3848f188bcb3cca4e741bf9e6ea34",
+        "sha256_in_prefix": "72faffdaff0145bc5c225e71e6575fa9d1e3848f188bcb3cca4e741bf9e6ea34",
+        "size_in_bytes": 2068
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/_meta.py",
+        "path_type": "hardlink",
+        "sha256": "fc5e3c1eefe317191f296cf9c1c612f2f3b6dea13281b55d17dafeeaa87e8631",
+        "sha256_in_prefix": "fc5e3c1eefe317191f296cf9c1c612f2f3b6dea13281b55d17dafeeaa87e8631",
+        "size_in_bytes": 1154
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/_text.py",
+        "path_type": "hardlink",
+        "sha256": "1c2b0592c66924b7933f734493f9e0ac079755146d4ebb7287d78e001a113f80",
+        "sha256_in_prefix": "1c2b0592c66924b7933f734493f9e0ac079755146d4ebb7287d78e001a113f80",
+        "size_in_bytes": 2166
+      },
+      {
+        "_path": "lib/python3.10/site-packages/importlib_metadata/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a91f166e56192f488795ede55793f94d348d9479181ae7cfab2aa841592647e5",
+  "size": 34191,
+  "subdir": "osx-64",
+  "timestamp": 1653253062022,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/importlib-metadata-4.11.4-py310h2ec42d9_0.tar.bz2",
+  "version": "4.11.4"
+}

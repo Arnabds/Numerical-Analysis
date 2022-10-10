@@ -1,0 +1,14 @@
+prefix=/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv
+exec_prefix=/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv
+libdir=/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv/lib
+includedir=/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 24.3.18
+Requires: 
+Requires.private: 
+Libs: -L/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv/lib -lfreetype
+Libs.private: -lz -L/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv/lib -lpng16 -lz
+Cflags: -I${includedir}/freetype2

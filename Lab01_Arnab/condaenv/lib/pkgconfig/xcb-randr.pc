@@ -1,0 +1,11 @@
+prefix=/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: XCB RandR
+Description: XCB RandR Extension
+Version: 1.13
+Requires.private: xcb xcb-render
+Libs: -L${libdir} -lxcb-randr
+Cflags: -I${includedir}

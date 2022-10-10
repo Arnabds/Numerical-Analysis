@@ -1,0 +1,10 @@
+prefix=/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv
+exec_prefix=${prefix}
+includedir=/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv/include
+libdir=/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv/lib
+
+Name: libdeflate
+Description: Fast implementation of DEFLATE, zlib, and gzip
+Version: 1.13
+Libs: -L${libdir} -ldeflate
+Cflags: -I${includedir}

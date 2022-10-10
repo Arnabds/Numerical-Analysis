@@ -1,0 +1,14 @@
+name: lab01
+
+channels:
+ - default
+ - conda-forge
+
+dependencies:
+ - numpy
+ - scipy
+
+ - matplotlib
+
+ - flake8
+ - black

@@ -1,0 +1,38 @@
+1 a) I imported numpy as np.
+b) 3.141592653589793
+c) 3.1416
+d) Checked in google
+e) float function returns floating or decimal rational representation of a number or string.
+ E.g it will return 17.0 if the input is 17,
+     it will return 0.0 if the input is blank i.e. print(float())
+     it will return nan if the input is Nan or nan which indicates not a number 
+     i.e. print(float("nan"))
+     it will return inf if the input is Infinity or infinity i.e. print(float("nan"))
+f) The value is 2.220446049250313*10^{-16}
+g) Python is showing integer 1 for a and the floating point 1.0000000000000002 for b. 
+ Yes, I can tell that.
+h) No, the values are not different. This is because computer is storing all the digits as a 
+ binary representation and epsilon can accomodate atmeost one space for it  which is 1. When
+ it goes to 2 whose binary represetation would be 10. The computer can't accomodate that extra
+ digit and deducts the last digit.
+i) I chose the number 2. The code is
+    x=2
+j) 4,8.
+k) I chose the angle 30 degree
+l) np.sin(x) returns -0.9880316240928618 and np.cos(x) returns 0.15425144988758405
+angles are measured in radians.
+m) Under quotation it is np.sqrt(4) and without the quotation it is 2.
+
+
+Ex 2) 1) Imported.
+    2) Created meshPoints
+    3) The code is "print(meshPoints[94])"
+    4) It confirmed that the vector has 1000 elements.
+    5) I ran the command.
+    6) The coomand imported the library matplotlib ann we call it as plt.
+       Then python has generated the graph Sin(2\pi x)
+       We have printed the graph.
+    7) I have created the file and observed that I can run the command from terminal itself.
+    
+
+

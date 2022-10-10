@@ -1,0 +1,5 @@
+#!/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv/bin/python3.10
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()

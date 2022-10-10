@@ -1,0 +1,11 @@
+prefix=/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: Xdmcp
+Description: X Display Manager Control Protocol library
+Version: 1.1.3
+Requires: xproto
+Cflags: -I${includedir}
+Libs: -L${libdir} -lXdmcp

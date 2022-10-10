@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv
+exec_prefix=/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv
+libdir=/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv/lib
+includedir=/Users/arnabdeysarkar/Desktop/python/2070_numerical_analysis/Lab01_students/condaenv/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.2.6
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lpthread
