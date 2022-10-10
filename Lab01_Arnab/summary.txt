@@ -1,0 +1,41 @@
+1 a) Opened terminal. Last login: Wed Dec  8 16:13:50 on console
+arnabdeysarkar@ARNABs-MacBook-Pro ~ % pwd
+/Users/arnabdeysarkar
+arnabdeysarkar@ARNABs-MacBook-Pro ~ %
+
+b) printed work directory.
+
+c) listed files in the directory.
+
+d) created test directory.
+
+e) entered test folder.
+
+f) (f) Downloaded the file hello world.sh
+and saved it to the directory test.
+
+g) hello world file deleted.
+
+h) Went one directory up.
+
+i) Deleted test directory.
+
+2) Vs coded downloaded and installed.
+
+3) Anaconda downloaded and installed.
+
+
+4 a) I made the folder lab01_Arnab
+b) conda activated
+c) I am in the folder in lab01_Arnab by typing cd lab01_Arnab.
+d) mkdir code
+e) They import the national library numpy.
+   We are defining variable x=5
+   We are defining variable y=7
+   We are adding x and y
+   We are defining variable t=3
+   We are defining variable g a vector (0,0,0,0,0)
+   We are printing z. So python should the add x and y and print 12.
+
+f) python lab01.py 
+output: 12
